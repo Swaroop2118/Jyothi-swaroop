@@ -1,0 +1,30 @@
+table,
+th,
+td{
+    border: 1px solid white;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+.images{
+    height: 20px;
+    
+}
+body{
+    background-color: rgb(23, 22, 22);
+    color: white;
+    /* align-items: center; */
+}
+#t{
+    text-align: left;
+    padding: 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+table {
+    width: 60em;
+    height: 30em;
+  }
+
